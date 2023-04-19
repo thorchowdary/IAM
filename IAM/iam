@@ -1,0 +1,4 @@
+diff b/w instance profile and iam role ?
+-------------------------------------------------
+role can be attached to any svc(ec2/lambda/rds/cloudwatch...etc) 
+If we attach i am role to ec2 it comes as an instance profile.
